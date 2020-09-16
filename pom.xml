@@ -26,9 +26,9 @@
 	</properties> 
 
 	<scm>
-		<connection>scm:git:git@github.com:bobkubista/oddoreven.git</connection>
+		<connection>scm:git:ssh://github.com/bobkubista/oddoreven.git</connection>
 		<url>scm:git:git@github.com/bobkubista/oddoreven.git</url>
-		<developerConnection>scm:git:git@github.com:bobkubista/oddoreven.git</developerConnection>
+		<developerConnection>scm:git:ssh://github.com/bobkubista/oddoreven.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
