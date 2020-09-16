@@ -23,7 +23,7 @@
 			**/*jquery*.js,
 		</sonar.exclusions>
 		<org.sonar.plugins.jmeter.jtlpath>${project.build.directory}/jmeter/results/get-all.jtl</org.sonar.plugins.jmeter.jtlpath>
-	</properties>
+	</properties> 
 
 	<scm>
 		<connection>scm:git:git@github.com:bobkubista/oddoreven.git</connection>
