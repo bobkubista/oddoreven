@@ -77,7 +77,7 @@
 						<phase>prepare-package</phase>
 						<goals>
 							<goal>report</goal>
-						</goals>
+						</goals>   
 					</execution>
 				</executions>
 			</plugin>
